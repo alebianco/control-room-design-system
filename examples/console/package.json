@@ -15,7 +15,7 @@
   "devDependencies": {
     "@builder.io/qwik": "^1.20.0",
     "@builder.io/qwik-city": "^1.20.0",
-    "ignore": "~7.0.6",
+    "ignore": "~7.0.9",
     "typescript": "^7.0.2",
     "vite": "^7.3.6"
   },
@@ -25,6 +25,6 @@
     "@alebianco/cr-tokens": "file:../../packages/tokens",
     "@alebianco/cr-utils": "file:../../packages/utils",
     "arktype": "^2.2.3",
-    "cronstrue": "^3.24.0"
+    "cronstrue": "^3.26.0"
   }
 }
