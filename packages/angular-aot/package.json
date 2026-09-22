@@ -8,10 +8,10 @@
     "test:aot": "node build/compile-aot.mjs"
   },
   "devDependencies": {
-    "@angular/common": "22.1.2",
-    "@angular/compiler": "22.1.2",
-    "@angular/compiler-cli": "22.1.2",
-    "@angular/core": "22.1.2",
+    "@angular/common": "22.1.7",
+    "@angular/compiler": "22.1.7",
+    "@angular/compiler-cli": "22.1.7",
+    "@angular/core": "22.1.7",
     "typescript": "6.0.3"
   }
 }
