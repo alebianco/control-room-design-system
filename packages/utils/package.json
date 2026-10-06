@@ -58,9 +58,9 @@
     "./theme": "./theme/index.js"
   },
   "dependencies": {
-    "arktype": "^2.2.3",
+    "arktype": "^2.2.7",
     "clsx": "^2.1.1",
-    "tailwind-merge": "^3.6.0"
+    "tailwind-merge": "^3.7.0"
   },
   "publishConfig": {
     "access": "restricted",
