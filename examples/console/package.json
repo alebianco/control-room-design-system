@@ -13,11 +13,11 @@
     "preview": "qwik build preview && vite preview --open"
   },
   "devDependencies": {
-    "@builder.io/qwik": "^1.20.0",
-    "@builder.io/qwik-city": "^1.20.0",
-    "ignore": "~7.0.6",
+    "@builder.io/qwik": "^1.20.2",
+    "@builder.io/qwik-city": "^1.20.2",
+    "ignore": "~7.0.12",
     "typescript": "^7.0.2",
-    "vite": "^7.3.6"
+    "vite": "^7.3.7"
   },
   "dependencies": {
     "@alebianco/cr-components": "file:../../packages/components",
@@ -25,6 +25,6 @@
     "@alebianco/cr-tokens": "file:../../packages/tokens",
     "@alebianco/cr-utils": "file:../../packages/utils",
     "arktype": "^2.2.3",
-    "cronstrue": "^3.24.0"
+    "cronstrue": "^3.31.0"
   }
 }
