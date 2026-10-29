@@ -166,7 +166,7 @@
     "@angular/platform-server": "^22.1.2",
     "@astrojs/starlight": "^0.41.7",
     "@axe-core/playwright": "^4.13.0",
-    "@babel/core": "^8.0.0",
+    "@babel/core": "^8.0.10",
     "@biomejs/biome": "^2.5.8",
     "@builder.io/mitosis": "^0.14.0",
     "@builder.io/mitosis-cli": "^0.14.0",
